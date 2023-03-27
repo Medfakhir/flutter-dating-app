@@ -15,11 +15,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+Badoo App Designe
+
 Nearby 
 ![Screenshot_1679939890](https://user-images.githubusercontent.com/61033546/228027759-e831c4fc-3167-45ad-9d72-9d2851bd58a7.png)
-
-
-![Screenshot_1679939895](https://user-images.githubusercontent.com/61033546/228027975-0b61c8a4-b329-4998-8073-bd15740293af.png)
 
 Encounters
 ![Screenshot_1679939900](https://user-images.githubusercontent.com/61033546/228027983-6aee3eba-c00c-4a25-a098-f105c3af696e.png)
